@@ -64,13 +64,13 @@ The project uses **JavaScript-based dynamic routing** to simulate a multipage we
 ---
 
 ## 📁 Project Structure
-
+```
 CampusEase/
 │── index.html
 │── style.css
 │── index.js
 │── README.md
-
+```
 ---
 
 ## ⚙️ How It Works
